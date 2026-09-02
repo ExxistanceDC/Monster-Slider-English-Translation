@@ -46,19 +46,19 @@ akdjfskdljf
   </tr>
   <tr>
     <td><strong>Localized Title</strong></td>
-    <td>Dead or Alive</td>
+    <td>Monster Slider</td>
   </tr>
   <tr>
     <td><strong>Developer</strong></td>
-    <td>Team Ninja</td>
+    <td>Datt Japan</td>
   </tr>
   <tr>
     <td><strong>Publisher</strong></td>
-    <td>Tecmo</td>
+    <td>Datt Japan</td>
   </tr>
     <tr>
     <td><strong>Original Release Date</strong></td>
-    <td>1997-10-09</td>
+    <td>1997-03-28</td>
   </tr>
  </table>
 </div>
