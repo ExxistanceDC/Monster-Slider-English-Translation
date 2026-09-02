@@ -23,11 +23,9 @@ akdjfskdljf
 - All dialogue translated
 - Ending staff roll translated
 - Character select screen translated
-- New graphics for 
-- All character bios on character select screen translated
-- All move lists in Training mode translated
-- Name entry instructions translated
-- "Save warnings" translated
+- Options menu translated
+- New English textures for difficulty select
+- "Save warning" screens translated
 
 
 ## **Screenshots**
