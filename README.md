@@ -1,10 +1,5 @@
 <div align="center">
- 
-
-
   <img src="https://github.com/user-attachments/assets/0afaedf9-0529-437c-9b07-00369b0a8c4f" />
-
-
 </div>
 
 
@@ -39,7 +34,8 @@ akdjfskdljf
 
 <!-- Row 1 -->
 <p>
-  <img width="500" alt="Character Select" src="https://github.com/user-attachments/assets/c436a365-b2f8-4da8-9d95-62dc47f9165b" />
+  <img width="500"  src="https://github.com/user-attachments/assets/4aa1f100-74a2-4c1d-af6f-379d641d703d" />
+/>
   <img width="500" alt="Round Intro" src="https://github.com/user-attachments/assets/72efaa2c-b3c4-44aa-a140-eee4e0ca9bdf" />
 </p>
 
