@@ -44,8 +44,11 @@ akdjfskdljf
   <img width="500" src="https://github.com/user-attachments/assets/ffc522d5-2113-4a19-a1d7-fab0c02b6e7a" />
 </p>
 
-
-
+<!-- Row 3 -->
+<p>
+  <img width="500" src="https://github.com/user-attachments/assets/83c2f90c-e523-4692-99d6-cceb0282e355" />
+  <img width="500" src="https://github.com/user-attachments/assets/9a1786d2-8ee1-4a1d-b73e-a54e854409c5" />
+</p>
 
 ## **About the Game**
 
