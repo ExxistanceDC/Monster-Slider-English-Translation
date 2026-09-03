@@ -86,7 +86,7 @@ The patch is shipped as an XDelta patch.
 
 #### Cheats ####
 
-1. **Bonus Whack-a-mMle game**
+1. **Bonus Whack-a-Mole game**
    - In Config, choose Sound Test. On the sound test screen, put the cursor on the triangular play mark and press X + Y + Z together to unlock a Whack-a-Mole minigame.
 2. **Stage Select**
    - On the story mode level select screen, **press L, L, R, R, L, R, R** in order. A number appears at the bottom of the screen.
