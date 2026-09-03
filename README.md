@@ -26,7 +26,7 @@ akdjfskdljf
 - Options menu translated
 - New English textures for difficulty select
 - "Save warning" screens translated
-- Fixed bug in original game code that caused Stage 3 to hang on Satiator and emulators
+- Fixed bug in original game code that caused Stage 3 intro conversation to hang on Satiator and emulators
 
 
 ## **Screenshots**
