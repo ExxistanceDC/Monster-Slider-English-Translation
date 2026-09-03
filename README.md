@@ -11,7 +11,7 @@
 1. [Screenshots](#Screenshots)
 1. [About the Game](#About-the-Game)
 1. [Patching Instructions](#Patching-Instructions)
-1. [[Helpful Game Tips](#Helpful-Game-Tips)
+1. [Helpful Game Tips](#Helpful-Game-Tips)
    - [Cheats](Cheats)
 1. [Credits & Special Thanks](#Credits)
 1. [Release Changelog](#Release-Changelog)
@@ -43,7 +43,7 @@ akdjfskdljf
 <table>
   <tr>
     <td><strong>Original Title</strong></td>
-    <td>Dead or Alive</td>
+    <td>モンスタースライダー</td>
   </tr>
   <tr>
     <td><strong>Localized Title</strong></td>
@@ -101,7 +101,7 @@ The patch is shipped as an XDelta patch.
 
 ## **Release Changelog**
 
-- **Version 1.0 (08/21/2026)**
+- **Version 1.0 (xx/xx/2026)**
   - Initial release
 
 
