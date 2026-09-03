@@ -13,7 +13,7 @@
 1. [About the Game](#About-the-Game)
 1. [Patching Instructions](#Patching-Instructions)
 1. [Helpful Game Tips](#Helpful-Game-Tips)
-   - [Cheats](Cheats)
+   - [Cheats](#Cheats)
 1. [Credits & Special Thanks](#Credits)
 1. [Release Changelog](#Release-Changelog)
 
