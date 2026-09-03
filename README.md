@@ -34,10 +34,18 @@ akdjfskdljf
 
 <!-- Row 1 -->
 <p>
-  <img width="500"  src="https://github.com/user-attachments/assets/4aa1f100-74a2-4c1d-af6f-379d641d703d" />
-/>
-  <img width="500" alt="Round Intro" src="https://github.com/user-attachments/assets/72efaa2c-b3c4-44aa-a140-eee4e0ca9bdf" />
+  <img width="500" src="https://github.com/user-attachments/assets/714a2624-9d84-4fef-b9b5-2bef65e12762" />
+  <img width="500" src="https://github.com/user-attachments/assets/72bce5c4-c430-4bec-8818-c8fc12b0c991" />
 </p>
+
+<!-- Row 2 -->
+<p>
+  <img width="500" src="https://github.com/user-attachments/assets/6b9a1625-fc3b-447c-9a87-d21146d39706" />
+  <img width="500" src="https://github.com/user-attachments/assets/ffc522d5-2113-4a19-a1d7-fab0c02b6e7a" />
+</p>
+
+
+
 
 ## **About the Game**
 
