@@ -82,6 +82,21 @@ akdjfskdljf
 
 The patch is shipped as an XDelta patch. 
 
+### Helpful Game Tips ###
+
+#### Cheats ####
+
+1. **Bonus Whack-a-mMle game**
+   - In Config, choose Sound Test. On the sound test screen, put the cursor on the triangular play mark and press X + Y + Z together to unlock a Whack-a-Mole minigame.
+2. **Stage Select**
+   - On the story mode level select screen, **press L, L, R, R, L, R, R** in order. A number appears at the bottom of the screen.
+3. **Flying Witch**
+   - During the story mode opening, **press L, L, R, R, L, R, R** and a witch-like object flies across the background.
+4. **Play as Claudia**
+   - On the character select screen, put the cursor on Dracula, **hold L + R** and **press Right**.
+5. **Mirror match**
+   - On the two-player mode character select screen, **hold L and R** while choosing so both players can pick the same character.
+
 ### XDelta Instructions ###
 
 1. Grab an XDelta patching utility like <a href='https://www.romhacking.net/utilities/704/'>Delta Patcher</a>
