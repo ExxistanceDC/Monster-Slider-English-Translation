@@ -5,7 +5,7 @@
 
 # Monster Slider English Translation Patch
 
-
+Monster Slider is a Japanese-exclusive Sega Saturn puzzler that is now available for English audiences! You're in for a fun mix of classic monsters, funny dialogue, and clever puzzling. Please enjoy.
 
 ## Table of Contents
 1. [Overview](#Overview)
@@ -19,7 +19,17 @@
 
 
 ## **Overview**
-akdjfskdljf
+
+The Traveling Wilburys.<br>
+Temple of the Dog.<br>
+Audioslave.<br>
+Divine Fits.<br>
+
+Every so often, a team of talented individuals band together to form a supergroup that transcends their individual parts.
+
+And now, **rasputin3000** of Silhouette Mirage translation fame (and others!), translation maistro **wiredcrackpot** (of too many Saturn translations to list!), and **Exxistance** (moi, your humble narrator) have joined forces to bring you another Saturn banger!
+
+Monster Slider is now fully localized with the following updates:
 
 - All dialogue translated
 - Ending staff roll translated
@@ -125,7 +135,7 @@ The patch is shipped as an XDelta patch.
 - Exxistance
 
 **Special Thanks**
-- jhjh
+- rasputin3000 (for inviting me to be a part of this project. It was a fun collab!)
 
 ## **Release Changelog**
 
