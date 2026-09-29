@@ -20,14 +20,14 @@ Monster Slider is a Japanese-exclusive Sega Saturn puzzler that is now available
 
 ## **Overview**
 
+Every so often, a team of talented individuals band together to form a supergroup that transcends their individual parts...
+
 The Traveling Wilburys.<br>
 Temple of the Dog.<br>
 Audioslave.<br>
 Divine Fits.<br>
 
-Every so often, a team of talented individuals band together to form a supergroup that transcends their individual parts.
-
-And now, **rasputin3000** of Silhouette Mirage translation fame (and others!), translation maistro **wiredcrackpot** (of too many Saturn translations to list!), and **Exxistance** (moi, your humble narrator) have joined forces to bring you another Saturn banger!
+...And now, **rasputin3000** of Silhouette Mirage translation fame (and others!), translation maestro **wiredcrackpot** (of too many Saturn translations to list!), and **Exxistance** (moi, your humble narrator) have joined forces to bring you another Saturn banger!
 
 Monster Slider is now fully localized with the following updates:
 
