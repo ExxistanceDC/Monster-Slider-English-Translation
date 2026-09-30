@@ -27,7 +27,7 @@ Temple of the Dog.<br>
 Audioslave.<br>
 Divine Fits.<br>
 
-...And now, **rasputin3000** of Silhouette Mirage translation fame (and others!), translation maestro **wiredcrackpot** (of too many Saturn translations to list!), and **Exxistance** (moi, your humble narrator) have joined forces to bring you another Saturn banger!
+...And now, much like the above musical supergroups, **rasputin3000** of Silhouette Mirage translation fame (and others!), translation maestro **wiredcrackpot** (of too many Saturn translations to list!), and **Exxistance** (moi, your humble narrator) have joined forces to bring you another Saturn banger!
 
 Monster Slider is now fully localized with the following updates:
 
