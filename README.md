@@ -132,6 +132,7 @@ The patch is shipped as an XDelta patch.
 
 **Playtesting**
 - rasputin3000
+- Double Dime
 - Exxistance
 
 **Special Thanks**
