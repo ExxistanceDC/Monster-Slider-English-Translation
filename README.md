@@ -140,7 +140,7 @@ The patch is shipped as an XDelta patch.
 
 ## **Release Changelog**
 
-- **Version 1.0 (xx/xx/2026)**
+- **Version 1.0 (9/30/2026)**
   - Initial release
 
 
